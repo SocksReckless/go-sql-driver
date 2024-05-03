@@ -1,3 +1,3 @@
-module github.com/go-sql-driver/mysql
+module github.com/SocksReckless/go-sql-driver
 
 go 1.13
